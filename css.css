@@ -1,0 +1,196 @@
+header{
+    position:fixed;
+    top:0;
+    background-color: #5fc0cd;
+    height:8rem;
+    display: flex;
+    padding: 1rem 0;
+    text-align: center;
+    width: 100%;
+    z-index: 10;
+}
+.one{
+    width: 17rem;
+    height:auto;
+    position: relative;
+
+}
+.btn-info {
+    width:8rem;
+    height: 6rem;
+    background-color: #55a8b3;
+    color: white;
+    font-size: 2rem;
+    border-radius: 15%;
+    border: none;
+    outline: none;
+    display: inline;
+    flex: 1;
+    position: absolute;
+    left:1rem;
+}
+.btn-default{
+    width:8rem;
+    height:6rem;
+    background-color:white ;
+    color:#5fc0cd;
+    font-size: 2rem;
+    border-radius: 15%;
+    border:none;
+    outline: none;
+    display: inline;
+    flex: 1;
+    position: absolute;
+    left:8.5rem;
+}
+main{
+    position: absolute;
+    top: 8rem;
+    left:0;
+    right: 0;
+    bottom:102px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left:0;
+    background-color: #f8fafb;
+    height:102px;
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.dropdown{
+    width:33.3333%;
+    background-color: white;
+    float:left;
+    border-bottom: solid 1px #e1e5e7;
+    color:#999999;
+    font-size: 3rem;
+}
+.dropdown-toggle{
+    width:100%;
+    background-color: white;
+}
+.caret{
+    float: right;
+    margin-top:0.7rem ;
+}
+.dropdown-b{
+    border-right: solid 1px #e1e5e7;
+}
+.more{
+    width:100%;
+    height:auto;
+    float:left;
+    overflow-y: auto;
+    overflow-x: auto;
+    margin-bottom: 102px;
+}
+.message{
+    width:100%;
+    height: 8.5rem;
+    border-bottom: solid 1px #e1e5e7;
+    padding: 1rem;
+}
+span{
+    background-image: url(/../Page2/CssGaga.png);
+    background-repeat: no-repeat;
+    height:27px;
+    width:28px;
+    display: block;
+}
+.icon1{
+    background-position: -203px -51px;
+}
+.image{
+    height:27px;
+    width:28px;
+    float:left;
+    margin-right: 1rem;
+}
+.font{
+    width:86%;
+    height:auto;
+    color:#999999;
+    float:left;
+    font-size: 20px;
+}
+.date{
+    width:60%;
+    margin-left: 35px;
+    height: auto;
+    float:left;
+    font-size: 16px;
+}
+.right_img{
+    float:right;
+    width:19.7px;
+    height:25px;
+    background-repeat: no-repeat;
+    background-image: url(/../Page2/CssGaga.png);
+    background-size:151.3px ;
+}
+.icon2{
+    background-position: -112.5px -33.5526316px;
+}
+.reddate{
+    width:60px;
+    float:right;
+    height: auto;
+    font-size: 16px;
+    color:red;
+}
+.icon3{
+    background-position: -203px -81px;
+}
+.font2{
+
+    width:86%;
+    height:auto;
+    color:#999999;
+    float:left;
+    font-size: 17px;
+
+}
+.image2{
+    height:27px;
+    width:28px;
+    float:left;
+    margin-right: 1rem;
+    clear: left;
+}
+.image3{
+    width:109px;
+    height: 99px;
+    background-image: url(/../Page2/CssGaga.png);
+}
+.icon4{
+    background-position: 0 0;
+}
+.iamage4{
+    width:58px;
+    height: 50px;
+    background-image: url(/../Page2/CssGaga.png);
+}
+.icon5{
+    background-position: -111px -53px;
+}
+.font4{
+    color:#55a8b3;
+    font-size: 1.75rem;
+    text-align: center;
+}
+.imagebig1{
+    height:75px;
+    width:58px;
+}
+.icon6{
+    background-position: -169px 0;
+}
+.font5{
+    color:#999999;
+    font-size: 1.75rem;
+    text-align: center;
+}
