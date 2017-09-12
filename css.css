@@ -165,6 +165,7 @@ span{
     width:109px;
     height: 99px;
     background-image: url(/../Page2/CssGaga.png);
+    cursor: pointer;
 }
 .icon4{
     background-position: 0 0;
@@ -185,6 +186,7 @@ span{
 .imagebig1{
     height:75px;
     width:58px;
+    cursor: pointer;
 }
 .icon6{
     background-position: -169px 0;
