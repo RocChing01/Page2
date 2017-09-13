@@ -196,3 +196,15 @@ span{
     font-size: 1.75rem;
     text-align: center;
 }
+.location{
+    width:56px;
+    height: 51px;
+    background-image: url(/../Page2/CssGaga.png);
+    position: fixed;
+    right: 0;
+    top:20px;
+    cursor: pointer;
+}
+.icon7{
+    background-position:-111px 0;
+}
