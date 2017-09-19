@@ -80,6 +80,7 @@ footer{
 .dropdown-b{
     border-right: solid 1px #e1e5e7;
 }
+
 .more{
     width:100%;
     height:auto;
@@ -197,14 +198,15 @@ span{
     text-align: center;
 }
 .location{
-    width:56px;
-    height: 51px;
+    width:33.6px;
+    height: 30.6px;
     background-image: url(/../Page2/CssGaga.png);
     position: fixed;
     right: 0;
-    top:20px;
+    top:4%;
     cursor: pointer;
+    background-size: 138px;
 }
 .icon7{
-    background-position:-111px 0;
+    background-position:-66.6px 0;
 }
